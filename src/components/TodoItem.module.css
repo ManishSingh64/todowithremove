@@ -1,0 +1,24 @@
+.li{
+    border: 1px solid rgb(47, 158, 139);
+    display: flex;
+    width: 29%;
+    height: 35px;
+    margin: auto;
+    justify-content: space-between;
+}
+.btn{
+    border-radius: 10px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+.btn:hover{
+    background-color: cornflowerblue;
+    color: aliceblue;
+    
+}
+.para{
+    display: flex;
+    align-items: center;
+    /* border: 1px solid red; */
+    margin-bottom: 20px;
+}

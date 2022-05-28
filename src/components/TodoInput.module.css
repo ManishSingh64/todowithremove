@@ -1,0 +1,14 @@
+.input{
+    text-align: center;
+    border-radius: 10px;
+    width: 20%;
+    height: 40px;
+    margin-top: 20px;
+}
+.btn{
+    width: 5%;
+    height: 43px;
+    border-radius: 10px;
+    margin-left: 10px;
+
+}
